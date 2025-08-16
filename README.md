@@ -1,4 +1,4 @@
-- 👋 Oi, meu nome é Samara Vitória
+- 👋 Olá, meu nome é Samara Vitória
 - Sou estudante de Ciência de Dados ❤
 - 👀 Carregando...
 
