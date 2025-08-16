@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Samara Vitória
-- Sou estudante de Ciência de Dados ❤
+- Cientista de Dados - UEPB ❤
 - 👀 Carregando...
 
 
